@@ -1,0 +1,1 @@
+The NASA is asking you to write a few new algorithms that will be used to explore a new specific zone on planet Mars. You will have to design, implement and test 7 algorithms to compete the different missions set by NASA. You well be able to test your algorithms using our Mars Perseverance Simulator Environment (MPSE).
